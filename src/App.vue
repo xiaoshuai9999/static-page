@@ -10,7 +10,7 @@ import IconMake from "./components/IconMake.vue";
 
 <style scoped>
 .app-vue {
-  background:url(https://shuai520.cn/1814352138/yk6baz03t0m000d7w33gj97qlupzr852DIYPAdDyDqewBcxxAIaz.png) no-repeat;
+  background:url(https://vip.123pan.cn/1814352138/yk6baz03t0m000d7w33gj97qlupzr852DIYPAdDyDqewBcxxAIaz.png) no-repeat;
 }
 </style>
 

@@ -16,5 +16,6 @@ export default defineConfig({
     Components({
       resolvers: [VantResolver()],
     }),
-  ]
+  ],
+    base: './'
 })
