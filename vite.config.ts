@@ -17,5 +17,5 @@ export default defineConfig({
       resolvers: [VantResolver()],
     }),
   ],
-    base: '/static-page/'
+    base: './'
 })
